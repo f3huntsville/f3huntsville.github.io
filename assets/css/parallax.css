@@ -1,0 +1,13 @@
+/*  ----------------------------------------------
+            CSS TABLE OF CONTENTS
+    ------------------------------------------------- */
+
+/* 1:	Parallax effect on element
+/* ---------------------------------------------- */
+
+#parallax-slide,
+#products,
+#portfolio,
+#counter{
+	background-attachment: fixed;
+}

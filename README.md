@@ -1,12 +1,6 @@
-K<!-- D# WIP -->
+# F3Huntsville 
 
-<!-- Work in progress -->
-
-## TODO
-
-Stick figure animations
-ToneJS
-
-www.youraffirmations.com
+https://f3huntsville.com
+https://f3huntsville.github.io
 
 

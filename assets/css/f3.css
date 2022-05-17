@@ -1,4 +1,9 @@
 
+.him-image {
+	width: 15vw;
+
+}
+
 .pace {
   -webkit-pointer-events: none;
   pointer-events: none;
@@ -99,7 +104,7 @@ a:focus {
 }
 
 .gray{
-    color: #a5a5a5;
+    color: #757575;
 }
 
 .buffer-twenty{

@@ -137,7 +137,8 @@ a:focus {
 
 .highlight{
     font-weight: 700;
-    color: rgba(254,82,76, 1); /* Primary color, can be changed via colors.css */
+    color: #FFF !important;
+	text-decoration: underline;
 }
 
 .list-ord{
